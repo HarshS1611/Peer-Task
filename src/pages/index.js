@@ -62,7 +62,7 @@ export default function Login() {
 
           <p className="mt-8 text-xs font-light text-center text-white">
             {" "}
-            Don't have an account?{" "}
+            Dont have an account?{" "}
             <a
               href="#"
               className="font-medium text-[#0284c7] hover:underline"
